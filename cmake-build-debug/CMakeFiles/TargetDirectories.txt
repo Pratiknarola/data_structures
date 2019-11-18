@@ -1,0 +1,3 @@
+C:/Users/Pratik/CLionProjects/ds_external/cmake-build-debug/CMakeFiles/ds_external.dir
+C:/Users/Pratik/CLionProjects/ds_external/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pratik/CLionProjects/ds_external/cmake-build-debug/CMakeFiles/rebuild_cache.dir
