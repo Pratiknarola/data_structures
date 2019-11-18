@@ -7,10 +7,18 @@ typedef struct Node {
 } node;
 
 void push(node * s, int val){
+    if(s->top == MAX) {
+        printf("Stack overflow\n");
+        return;
+    }
     s->a[++(s->top)] = val;
 }
 
 int pop(node *s){
+    if(s->top == -1){
+        printf("Stack underflow.\n");
+        return;
+    }
     return s->a[s->top--];
 }
 
